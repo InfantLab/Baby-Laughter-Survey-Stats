@@ -1,0 +1,3358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questionnaire id="86311">
+  <title>The Baby Laughter Questionnaire</title>
+  <investigator/>
+  <dataCollector/>
+  <questionnaireInfo>
+    <position>before</position>
+    <text>Welcome to the Baby Laughter Survey!&#13;
+&#13;
+	 &#13;
+&#13;
+	This research is being conducted by Dr. Caspar Addyman and colleagues from the Babylab at Birkbeck, University of London. We are interested in finding out what exactly makes your baby laugh? You can't laugh if you don't get the joke. You don't laugh if you're not happy and in good company. So by studying what makes babies laugh we can gain new insights into their understanding of the world and how they interact with people around them. &#13;
+&#13;
+	 &#13;
+&#13;
+	We'd like to know who and what your baby finds funny. We'd like know what toys are always sure to raise a smile and what games can guarantee hysterics. What's more, we'd like to know what you think your baby is thinking when they find something amusing. &#13;
+&#13;
+	 &#13;
+&#13;
+	&#13;
+		Your participation in this survey is much appreciated and the input you have to offer is invaluable. This survey take no more than 15 minutes to finish. Don't worry if a certain little someone needs your attention, you can save your answers and come back to it later. &#13;
+	&#13;
+		 &#13;
+	&#13;
+		Remember all information will be analyzed and kept strictly confidential so feel free to answer all questions as honestly and truthfully as possible.&#13;
+	&#13;
+		 &#13;
+	&#13;
+		If you have any questions feel free to email Dr Caspar Addyman.&#13;
+&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;</text>
+    <administration>self</administration>
+  </questionnaireInfo>
+  <questionnaireInfo>
+    <position>after</position>
+    <text>&lt;p&gt;&#13;
+	Thank you very much for your participation.&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	You can follow the progress of our research on our blog.&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	If something particularly funny happens, there is a short form on our site that you can use to send us a 'field report'&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	Please tell your friends.&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	var switchTo5x=true;&#13;
+	&#13;
+	stLight.options({publisher: "c22a30ad-199e-4063-98d6-5d24c2d9cc46"}); &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;</text>
+    <administration>self</administration>
+  </questionnaireInfo>
+  <section id="9">
+    <sectionInfo>
+      <position>title</position>
+      <text>Welcome to The Baby Laughter Questionnaire</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>Your participation is much appreciated! This survey should only take about 15 minutes to complete.&#13;
+&#13;
+	 &#13;
+&#13;
+	All the information you provide us with will be treated as confidential, and analysed anonymously. Just fill in the information below and click 'submit' to get started!&#13;
+&#13;
+	 &#13;
+&#13;
+	 &#13;
+&#13;
+	If you have any questions, please do not hesitate to email us: infantologist@gmail.com </text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Consent&#13;
+		&#13;
+			 &#13;
+		&#13;
+			&lt;em&gt;By checking this option you indicate that you understand that participation is voluntary and that you are free to withdraw at any time, without giving any reason, without your legal rights being affected. Remember all information will be analyzed and kept strictly confidential so feel free to answer all questions as honestly and truthfully as possible. Please check the box below to confirm that you have read and understood the above information about this online questionnaire and have had the opportunity to ask questions (by emailing Dr. Caspar Addyman).  &lt;/em&gt;&#13;
+	&#13;
+&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;</text>
+      <response varName="86311X9X65">
+        <fixed>
+          <category>
+            <label>I agree to take part in the above study</label>
+            <value>A1</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Email Address (optional) &#13;
+&#13;
+	 &#13;
+&#13;
+	If you would like to be emailed a summary of our results please provide your email address below. &#13;
+&#13;
+	 &#13;
+&#13;
+	Your details will not be forwarded to any third parties. Your email address is only requested for correspondence purposes.</text>
+      <response varName="86311X9X67">
+        <free>
+          <format>text</format>
+          <length>240</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>This questionnaire is part of ongoing research conducted by the Baby Lab at Birbeck University.&#13;
+&#13;
+	If you would be happy for your email address to be kept on record so that you can be contacted with information about future studies and invitations to take part please check the box below.&#13;
+&#13;
+	 </text>
+      <response varName="86311X9X68">
+        <fixed>
+          <category>
+            <label>I am happy to be contacted about future Baby Lab studies</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>I am already registered with Birkbeck Baby Lab</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Do not contact me</label>
+            <value>A3</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>In what country do you currently reside?</text>
+      <response varName="86311X9X156">
+        <fixed>
+          <category>
+            <label>United Kingdom</label>
+            <value>220</value>
+          </category>
+          <category>
+            <label>United States</label>
+            <value>1</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Afghanistan</label>
+            <value>2</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Albania</label>
+            <value>3</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Algeria</label>
+            <value>4</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>American Samoa</label>
+            <value>5</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Andorra</label>
+            <value>6</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Angola</label>
+            <value>7</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Anguilla</label>
+            <value>8</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Antarctica</label>
+            <value>9</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Antigua and Barbuda</label>
+            <value>10</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Argentina</label>
+            <value>11</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Armenia</label>
+            <value>12</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Aruba</label>
+            <value>13</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Australia</label>
+            <value>14</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Austria</label>
+            <value>15</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Azerbaijan</label>
+            <value>16</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Bahamas</label>
+            <value>17</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Bahrain</label>
+            <value>18</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Bangladesh</label>
+            <value>19</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Barbados</label>
+            <value>20</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Belarus</label>
+            <value>21</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Belgium</label>
+            <value>22</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Belize</label>
+            <value>23</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Benin</label>
+            <value>24</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Bermuda</label>
+            <value>25</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Bhutan</label>
+            <value>26</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Bolivia</label>
+            <value>27</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Bosnia and Herzegovina</label>
+            <value>28</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Botswana</label>
+            <value>29</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Bouvet Island</label>
+            <value>30</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Brazil</label>
+            <value>31</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>British Indian Ocean Territory</label>
+            <value>32</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Brunei Darussalam</label>
+            <value>33</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Bulgaria</label>
+            <value>34</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Burkina Faso</label>
+            <value>35</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Burundi</label>
+            <value>36</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Cambodia</label>
+            <value>37</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Cameroon</label>
+            <value>38</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Canada</label>
+            <value>39</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Cape Verde</label>
+            <value>40</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Cayman Islands</label>
+            <value>41</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Central African Republic</label>
+            <value>42</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Chad</label>
+            <value>43</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Chile</label>
+            <value>44</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>China</label>
+            <value>45</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Christmas Island</label>
+            <value>46</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Cocos Islands</label>
+            <value>47</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Colombia</label>
+            <value>48</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Comoros</label>
+            <value>49</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Congo</label>
+            <value>50</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Cook Islands</label>
+            <value>51</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Costa Rica</label>
+            <value>52</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Cote d'Ivoire</label>
+            <value>53</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Croatia</label>
+            <value>54</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Cuba</label>
+            <value>55</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Cyprus</label>
+            <value>56</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Czech Republic</label>
+            <value>57</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Denmark</label>
+            <value>58</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Djibouti</label>
+            <value>59</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Dominica</label>
+            <value>60</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Dominican Republic</label>
+            <value>61</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Ecuador</label>
+            <value>62</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Egypt</label>
+            <value>63</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>El Salvador</label>
+            <value>64</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Equatorial Guinea</label>
+            <value>65</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Eritrea</label>
+            <value>66</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Estonia</label>
+            <value>67</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Ethiopia</label>
+            <value>68</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Falkland Islands</label>
+            <value>69</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Faroe Islands</label>
+            <value>70</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Fiji</label>
+            <value>71</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Finland</label>
+            <value>72</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>France</label>
+            <value>73</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>French Guiana</label>
+            <value>74</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>French Polynesia</label>
+            <value>75</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Gabon</label>
+            <value>76</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Gambia</label>
+            <value>77</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Georgia</label>
+            <value>78</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Germany</label>
+            <value>79</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Ghana</label>
+            <value>80</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Gibraltar</label>
+            <value>81</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Greece</label>
+            <value>82</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Greenland</label>
+            <value>83</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Grenada</label>
+            <value>84</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Guadeloupe</label>
+            <value>85</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Guam</label>
+            <value>86</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Guatemala</label>
+            <value>87</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Guinea</label>
+            <value>88</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Guinea-Bissau</label>
+            <value>89</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Guyana</label>
+            <value>90</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Haiti</label>
+            <value>91</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Heard Island and McDonald Islands</label>
+            <value>92</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Honduras</label>
+            <value>93</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Hong Kong</label>
+            <value>94</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Hungary</label>
+            <value>95</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Iceland</label>
+            <value>96</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>India</label>
+            <value>97</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Indonesia</label>
+            <value>98</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Iran</label>
+            <value>99</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Iraq</label>
+            <value>100</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Ireland</label>
+            <value>101</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Israel</label>
+            <value>102</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Italy</label>
+            <value>103</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Jamaica</label>
+            <value>104</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Japan</label>
+            <value>105</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Jordan</label>
+            <value>106</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Kazakhstan</label>
+            <value>107</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Kenya</label>
+            <value>108</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Kiribati</label>
+            <value>109</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Kuwait</label>
+            <value>110</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Kyrgyzstan</label>
+            <value>111</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Laos</label>
+            <value>112</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Latvia</label>
+            <value>113</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Lebanon</label>
+            <value>114</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Lesotho</label>
+            <value>115</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Liberia</label>
+            <value>116</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Libya</label>
+            <value>117</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Liechtenstein</label>
+            <value>118</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Lithuania</label>
+            <value>119</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Luxembourg</label>
+            <value>120</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Macao</label>
+            <value>121</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Madagascar</label>
+            <value>122</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Malawi</label>
+            <value>123</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Malaysia</label>
+            <value>124</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Maldives</label>
+            <value>125</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Mali</label>
+            <value>126</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Malta</label>
+            <value>127</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Marshall Islands</label>
+            <value>128</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Martinique</label>
+            <value>129</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Mauritania</label>
+            <value>130</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Mauritius</label>
+            <value>131</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Mayotte</label>
+            <value>132</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Mexico</label>
+            <value>133</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Micronesia</label>
+            <value>134</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Moldova</label>
+            <value>135</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Monaco</label>
+            <value>136</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Mongolia</label>
+            <value>137</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Montenegro</label>
+            <value>138</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Montserrat</label>
+            <value>139</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Morocco</label>
+            <value>140</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Mozambique</label>
+            <value>141</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Myanmar</label>
+            <value>142</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Namibia</label>
+            <value>143</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Nauru</label>
+            <value>144</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Nepal</label>
+            <value>145</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Netherlands</label>
+            <value>146</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Netherlands Antilles</label>
+            <value>147</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>New Caledonia</label>
+            <value>148</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>New Zealand</label>
+            <value>149</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Nicaragua</label>
+            <value>150</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Niger</label>
+            <value>151</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Nigeria</label>
+            <value>152</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Norfolk Island</label>
+            <value>153</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>North Korea</label>
+            <value>154</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Norway</label>
+            <value>155</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Oman</label>
+            <value>156</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Pakistan</label>
+            <value>157</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Palau</label>
+            <value>158</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Palestinian Territory</label>
+            <value>159</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Panama</label>
+            <value>160</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Papua New Guinea</label>
+            <value>161</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Paraguay</label>
+            <value>162</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Peru</label>
+            <value>163</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Philippines</label>
+            <value>164</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Pitcairn</label>
+            <value>165</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Poland</label>
+            <value>166</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Portugal</label>
+            <value>167</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Puerto Rico</label>
+            <value>168</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Qatar</label>
+            <value>169</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Romania</label>
+            <value>170</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Russian Federation</label>
+            <value>171</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Rwanda</label>
+            <value>172</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Saint Helena</label>
+            <value>173</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Saint Kitts and Nevis</label>
+            <value>174</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Saint Lucia</label>
+            <value>175</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Saint Pierre and Miquelon</label>
+            <value>176</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Saint Vincent and the Grenadines</label>
+            <value>177</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Samoa</label>
+            <value>178</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>San Marino</label>
+            <value>179</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Sao Tome and Principe</label>
+            <value>180</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Saudi Arabia</label>
+            <value>181</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Senegal</label>
+            <value>182</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Serbia</label>
+            <value>183</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Seychelles</label>
+            <value>184</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Sierra Leone</label>
+            <value>185</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Singapore</label>
+            <value>186</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Slovakia</label>
+            <value>187</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Slovenia</label>
+            <value>188</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Solomon Islands</label>
+            <value>189</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Somalia</label>
+            <value>190</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>South Africa</label>
+            <value>191</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>South Georgia</label>
+            <value>192</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>South Korea</label>
+            <value>193</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Spain</label>
+            <value>194</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Sri Lanka</label>
+            <value>195</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Sudan</label>
+            <value>196</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Suriname</label>
+            <value>197</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Svalbard and Jan Mayen</label>
+            <value>198</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Swaziland</label>
+            <value>199</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Sweden</label>
+            <value>200</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Switzerland</label>
+            <value>201</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Syrian Arab Republic</label>
+            <value>202</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Taiwan</label>
+            <value>203</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Tajikistan</label>
+            <value>204</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Tanzania</label>
+            <value>205</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Thailand</label>
+            <value>206</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>The Former Yugoslav Republic of Macedonia</label>
+            <value>207</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Timor-Leste</label>
+            <value>208</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Togo</label>
+            <value>209</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Tokelau</label>
+            <value>210</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Tonga</label>
+            <value>211</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Trinidad and Tobago</label>
+            <value>212</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Tunisia</label>
+            <value>213</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Turkey</label>
+            <value>214</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Turkmenistan</label>
+            <value>215</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Tuvalu</label>
+            <value>216</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Uganda</label>
+            <value>217</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Ukraine</label>
+            <value>218</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>United Arab Emirates</label>
+            <value>219</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>United States Minor Outlying Islands</label>
+            <value>221</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Uruguay</label>
+            <value>222</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Uzbekistan</label>
+            <value>223</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Vanuatu</label>
+            <value>224</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Vatican City</label>
+            <value>225</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Venezuela</label>
+            <value>226</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Vietnam</label>
+            <value>227</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Virgin Islands</label>
+            <value>228</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Wallis and Futuna</label>
+            <value>229</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Western Sahara</label>
+            <value>230</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Yemen</label>
+            <value>231</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Zambia</label>
+            <value>232</value>
+            <skipTo>34</skipTo>
+          </category>
+          <category>
+            <label>Zimbabwe</label>
+            <value>233</value>
+            <skipTo>34</skipTo>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>If you live in the U.K. select your distance from Central London</text>
+      <response varName="86311X9X154">
+        <fixed>
+          <category>
+            <label/>
+            <value>1</value>
+          </category>
+          <category>
+            <label/>
+            <value>2</value>
+          </category>
+          <category>
+            <label/>
+            <value>3</value>
+          </category>
+          <category>
+            <label/>
+            <value>4</value>
+          </category>
+          <category>
+            <label/>
+            <value>5</value>
+          </category>
+          <category>
+            <label/>
+            <value>6</value>
+          </category>
+          <category>
+            <label>&gt;200km</label>
+            <value>7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="14">
+    <sectionInfo>
+      <position>title</position>
+      <text>Baby background</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>&lt;p&gt;&#13;
+	 &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	Please start by providing is with some general background information about you and your baby.&lt;/p&gt;&#13;
+&#13;
+	 &#13;
+&lt;p&gt;&#13;
+	&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Please enter your baby's birth date.</text>
+      <response varName="86311X14X282">
+        <free>
+          <format>date</format>
+          <length>8</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Baby gender:</text>
+      <response varName="86311X14X283">
+        <fixed>
+          <category>
+            <label>Female</label>
+            <value>A1</value>
+            <skipTo>siblings</skipTo>
+          </category>
+          <category>
+            <label>Male</label>
+            <value>A2</value>
+            <skipTo>siblings</skipTo>
+          </category>
+          <category>
+            <label>Twins...</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>More...</label>
+            <value>A4</value>
+            <skipTo>Other Gender</skipTo>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p style="margin: 0px; padding: 0px; color: rgb(29, 45, 69); font-family: verdana; font-weight: bold; line-height: 15px; text-align: left; "&gt;&#13;
+	If completing on behalf of twins, please give answers that would be generally true for both of them. If you would prefer you can do the survey separately for each baby.&lt;/p&gt;&#13;
+&lt;p style="margin: 0px; padding: 0px; color: rgb(29, 45, 69); font-family: verdana; font-weight: bold; line-height: 15px; text-align: left; "&gt;&#13;
+	 &lt;/p&gt;&#13;
+&lt;p style="margin: 0px; padding: 0px; color: rgb(29, 45, 69); font-family: verdana; font-weight: bold; line-height: 15px; text-align: left; "&gt;&#13;
+	Are your twins?&lt;/p&gt;&#13;
+&#13;
+	 &#13;
+&#13;
+	 </text>
+      <response varName="86311X14X284">
+        <fixed>
+          <category>
+            <label>Identical Boys</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Identical Girls</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Non-identical Boys</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Non-identical Girls</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Boy and Girl</label>
+            <value>A5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p style="margin: 0px; padding: 0px; color: rgb(29, 45, 69); font-family: verdana; font-weight: bold; line-height: 15px; text-align: left; "&gt;&#13;
+	If completing on behalf of triplets, etc, please give answers that would be generally true for all of them. If you would prefer you can do the survey separately for each baby.&lt;/p&gt;&#13;
+&#13;
+	 &#13;
+&#13;
+	What sex are you babies? Are they identical?</text>
+      <response varName="86311X14X285">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>How many older brothers and sisters does your baby have?</text>
+      <response varName="86311X14X286">
+        <fixed>
+          <category>
+            <label>0</label>
+            <value>0</value>
+            <skipTo>babyextra</skipTo>
+          </category>
+          <category>
+            <label>1</label>
+            <value>1</value>
+            <skipTo>babyextra</skipTo>
+          </category>
+          <category>
+            <label>2</label>
+            <value>2</value>
+            <skipTo>babyextra</skipTo>
+          </category>
+          <category>
+            <label>3</label>
+            <value>3</value>
+            <skipTo>babyextra</skipTo>
+          </category>
+          <category>
+            <label>4</label>
+            <value>4</value>
+            <skipTo>babyextra</skipTo>
+          </category>
+          <category>
+            <label>5</label>
+            <value>5</value>
+            <skipTo>babyextra</skipTo>
+          </category>
+          <category>
+            <label>6</label>
+            <value>6</value>
+            <skipTo>babyextra</skipTo>
+          </category>
+          <category>
+            <label>7 or more</label>
+            <value>7</value>
+            <skipTo>babyextra</skipTo>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>What are their ages and genders?</text>
+      <response varName="86311X14X291">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Is there anything else we should know about your baby? (e.g. Where there any problems with the birth? Does your baby have any illness or condition?) </text>
+      <response varName="86311X14X287">
+        <fixed>
+          <category>
+            <label>No</label>
+            <value>No</value>
+            <skipTo>motherEducation</skipTo>
+          </category>
+          <category>
+            <label>Yes...</label>
+            <value>Yes</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Please describe</text>
+      <response varName="86311X14X290">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>What is the highest level of education the mother of the child has completed?</text>
+      <response varName="86311X14X292">
+        <fixed>
+          <category>
+            <label>Less than High School</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>High School</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Some College</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>2 Year College Degree (Associates)</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>3-4 Year College Degree (Bachelors)</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Masters Degree</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Doctoral Degree</label>
+            <value>A7</value>
+          </category>
+          <category>
+            <label>Professional Degree</label>
+            <value>A8</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>What is the highest level of education the father of the child has completed?</text>
+      <response varName="86311X14X293">
+        <fixed>
+          <category>
+            <label>Less than High School</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>High School</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Some College</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>2 Year College Degree (Associates)</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>3-4 Year College Degree (Bachelors)</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Masters Degree</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Doctoral Degree</label>
+            <value>A7</value>
+          </category>
+          <category>
+            <label>Professional Degree</label>
+            <value>A8</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>What job does the mother currently hold?</text>
+      <response varName="86311X14X294">
+        <free>
+          <format>text</format>
+          <length>240</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>What job does the father currently hold?</text>
+      <response varName="86311X14X295">
+        <free>
+          <format>text</format>
+          <length>240</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="15">
+    <sectionInfo>
+      <position>title</position>
+      <text>Earliest Laughs</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>Please tell us about your baby's earliest laughs and smiles</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Can you remember the age of your baby's first laughs and smiles. (If unsure or not relevant, please leave blank)</text>
+      <subQuestion varName="86311X15X296SQ001">
+        <text>First smile</text>
+      </subQuestion>
+      <subQuestion varName="86311X15X296SQ002">
+        <text>First social smile (to a person)</text>
+      </subQuestion>
+      <subQuestion varName="86311X15X296SQ003">
+        <text>First deliberate smile (when asked to smile)</text>
+      </subQuestion>
+      <subQuestion varName="86311X15X296SQ004">
+        <text>First laugh</text>
+      </subQuestion>
+      <subQuestion varName="86311X15X296SQ005">
+        <text>First hysterics</text>
+      </subQuestion>
+      <response varName="86311X15X296SQ001">
+        <free>
+          <format>integer</format>
+          <length>1</length>
+          <label>Age in months</label>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Can you remember what caused your baby's first laugh? If so, please describe what happened.</text>
+      <response varName="86311X15X303">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>What is the most memorable example of your baby laughing?</text>
+      <response varName="86311X15X304">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>What is the one thing that is sure to make your baby laugh?</text>
+      <response varName="86311X15X305">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>What does your baby do that makes YOU laugh?</text>
+      <response varName="86311X15X306">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="16">
+    <sectionInfo>
+      <position>title</position>
+      <text>The Causes of Baby Laughter</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>From Freud onwards psychologists have speculated about the causes of laughter and philosophers having been wondering about humour since the ancient Greeks. We are interested in how relevant you think these ideas might be to your baby's laughter. </text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>&lt;p&gt;Thinking about what causes your baby to laugh, please decide how relevant is each of these factors  might be. Please rate each item on a scale of 0-10, putting 0 for anything is completely irrelevant and 10 for anything is always true when your baby is laughing.&lt;/p&gt;&#13;
+&lt;p&gt;&lt;em&gt;Please give answers which are true for your baby at their current age. &lt;/em&gt;&lt;/p&gt;</text>
+      <subQuestion varName="86311X16X307SQ001">
+        <text>Response to a pleasant sensation (eg tickling)</text>
+      </subQuestion>
+      <subQuestion varName="86311X16X307SQ002">
+        <text>Response to a sudden or surprising event (eg boo!)</text>
+      </subQuestion>
+      <subQuestion varName="86311X16X307SQ003">
+        <text>Response to something silly or unusual (eg a dog going 'miouw')</text>
+      </subQuestion>
+      <subQuestion varName="86311X16X307SQ010">
+        <text>Response to exaggerated event or action</text>
+      </subQuestion>
+      <subQuestion varName="86311X16X307SQ004">
+        <text>Because baby is happy</text>
+      </subQuestion>
+      <subQuestion varName="86311X16X307SQ012">
+        <text>Because baby is excited</text>
+      </subQuestion>
+      <subQuestion varName="86311X16X307SQ007">
+        <text>Because someone else is laughing</text>
+      </subQuestion>
+      <subQuestion varName="86311X16X307SQ006">
+        <text>To communicate with caregiver</text>
+      </subQuestion>
+      <subQuestion varName="86311X16X307SQ008">
+        <text>To bond with caregiver</text>
+      </subQuestion>
+      <subQuestion varName="86311X16X307SQ005">
+        <text>To release nervous tension</text>
+      </subQuestion>
+      <subQuestion varName="86311X16X307SQ009">
+        <text>When fear is averted (eg something that seemed scary turns out not to be)</text>
+      </subQuestion>
+      <subQuestion varName="86311X16X307SQ011">
+        <text>Because baby knows he/she is being naughty</text>
+      </subQuestion>
+      <response varName="86311X16X307">
+        <fixed>
+          <category>
+            <label>Not important at all 0</label>
+            <value>0</value>
+          </category>
+          <category>
+            <label>Least important 1</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>2</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>3</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>4</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>5</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>6</label>
+            <value>6</value>
+          </category>
+          <category>
+            <label>7</label>
+            <value>7</value>
+          </category>
+          <category>
+            <label>8</label>
+            <value>8</value>
+          </category>
+          <category>
+            <label>9</label>
+            <value>9</value>
+          </category>
+          <category>
+            <label>Most important 10</label>
+            <value>10</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Did we forget anything? Tell us your theory about why your baby laughs</text>
+      <response varName="86311X16X320">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="2">
+    <sectionInfo>
+      <position>title</position>
+      <text>People That Make Your Baby Laugh</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>People that are currently in your baby's life, whether they are immediate or distant family members, neighbors, other babies or just random strangers. Who makes your baby laugh the most or least?&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>&lt;p&gt;&#13;
+	Please indicate the level that each person makes your baby laugh. If there are any people that we forgot, please add them in the box below. If any question does not apply to you and your baby please put "No answer"&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	&lt;/p&gt;</text>
+      <subQuestion varName="86311X2X11SQ001">
+        <text>Mummy</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X111">
+        <text>Daddy</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X112">
+        <text>Older Brother(s)</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X113">
+        <text>Older Sister(s)</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X114">
+        <text>Grandmas</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X115">
+        <text>Grandpas</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X116">
+        <text>Other Family Member</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X117">
+        <text>Family Friends (Adult)</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X118">
+        <text>Family Friends (Children)</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X119">
+        <text>Family Friends (Babies)</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X1110">
+        <text>Strangers (Adult)</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X1111">
+        <text>Strangers (Children)</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X1112">
+        <text>Strangers (Babies)</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X1113">
+        <text>Child Minder/Nursery Staff</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X1114">
+        <text>Doctors/Nurses</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X1115">
+        <text>Family Pet (Dog)</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X1116">
+        <text>Family Pet (Cat)</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X1117">
+        <text>Family Pet (Other)</text>
+      </subQuestion>
+      <response varName="86311X2X11">
+        <fixed>
+          <category>
+            <label>No answer</label>
+            <value>0</value>
+          </category>
+          <category>
+            <label>Never</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Only once or twice</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Occasionally</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Sometimes</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Often</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>Very Often</label>
+            <value>6</value>
+          </category>
+          <category>
+            <label>My baby finds this person hysterical</label>
+            <value>7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Who does your baby think is the funniest people they know?</text>
+      <subQuestion varName="86311X2X1201">
+        <text>Funniest Person</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X1202">
+        <text>2nd Funniest Person</text>
+      </subQuestion>
+      <subQuestion varName="86311X2X1203">
+        <text>3rd Funniest Person</text>
+      </subQuestion>
+      <response varName="86311X2X12">
+        <free>
+          <format>text</format>
+          <length>10</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;&#13;
+	Did we forget anyone? If so, who?&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	&lt;/p&gt;</text>
+      <response varName="86311X2X22">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="3">
+    <sectionInfo>
+      <position>title</position>
+      <text>At Home</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>What times of day and bits of your daily routine make your baby giggle while at home?</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>&lt;p&gt;&#13;
+	At what times of day does your baby laugh the most?  &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	&lt;em&gt;If any question does not apply please put "No answer"&lt;/em&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	&lt;/p&gt;</text>
+      <subQuestion varName="86311X3X231">
+        <text>Early Morning</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X232">
+        <text>Breakfast time</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X2316">
+        <text>Mid Morning</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X2319">
+        <text>Lunch time</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X2320">
+        <text>Nap time</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X2317">
+        <text>Early afternoon</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X2321">
+        <text>Late afternoon</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X2322">
+        <text>Dinner time</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X2318">
+        <text>Evening</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X234">
+        <text>Bed Time</text>
+      </subQuestion>
+      <response varName="86311X3X23">
+        <fixed>
+          <category>
+            <label>No answer</label>
+            <value>0</value>
+          </category>
+          <category>
+            <label>Never</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Only once or twice</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Occasionally</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Sometimes</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Often</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>Very often</label>
+            <value>6</value>
+          </category>
+          <category>
+            <label>My baby finds this hysterical</label>
+            <value>7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;&#13;
+	What aspects of daily routine make your baby laugh the most?  &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	&lt;em&gt;If any question does not apply please put "No answer"&lt;/em&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;</text>
+      <subQuestion varName="86311X3X32410">
+        <text>Getting Dressed</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X3249">
+        <text>Nappy Changing</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X3245">
+        <text>Meal Time (Breast)</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X3246">
+        <text>Meal Time (Bottle)</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X3247">
+        <text>Meal Time (Baby Food)</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X3248">
+        <text>Meal Time (Solids)</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X32411">
+        <text>Bath Time</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X32416">
+        <text>Reading to baby</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X32413">
+        <text>Watching Television</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X32414">
+        <text>Watching Parents cook/clean/etc.</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X32415">
+        <text>Quiet Time/Punishment</text>
+      </subQuestion>
+      <response varName="86311X3X324">
+        <fixed>
+          <category>
+            <label>No answer</label>
+            <value>0</value>
+          </category>
+          <category>
+            <label>Never</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Only once or twice</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Occasionally</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Sometimes</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Often</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>Very often</label>
+            <value>6</value>
+          </category>
+          <category>
+            <label>My baby finds this hysterical</label>
+            <value>7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Did we forget any part of your daily routine that your baby finds funny?  If so, what?</text>
+      <response varName="86311X3X33">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;&#13;
+	 How many times a day would you say your baby laughs?&lt;/p&gt;</text>
+      <response varName="86311X3X34">
+        <fixed>
+          <category>
+            <label>0-10</label>
+            <value>01</value>
+          </category>
+          <category>
+            <label>10-20</label>
+            <value>03</value>
+          </category>
+          <category>
+            <label>20-50</label>
+            <value>04</value>
+          </category>
+          <category>
+            <label>50-100</label>
+            <value>05</value>
+          </category>
+          <category>
+            <label>100-150</label>
+            <value>06</value>
+          </category>
+          <category>
+            <label>150-200</label>
+            <value>07</value>
+          </category>
+          <category>
+            <label>200-300</label>
+            <value>08</value>
+          </category>
+          <category>
+            <label>300-400</label>
+            <value>09</value>
+          </category>
+          <category>
+            <label>400-500</label>
+            <value>10</value>
+          </category>
+          <category>
+            <label>500+</label>
+            <value>11</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>What TV shows does your baby find the funniest?</text>
+      <subQuestion varName="86311X3X19201">
+        <text>Funniest TV Show</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X19202">
+        <text>Second Funniest TV Show</text>
+      </subQuestion>
+      <subQuestion varName="86311X3X19203">
+        <text>Third Funniest TV Show</text>
+      </subQuestion>
+      <response varName="86311X3X192">
+        <free>
+          <format>text</format>
+          <length>10</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="4">
+    <sectionInfo>
+      <position>title</position>
+      <text>Out and About</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>When you and your baby are out running errands or perhaps having a fun time, what does your baby laugh at?</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>&lt;p&gt;&#13;
+	Please indicate the level that each situation makes your baby laugh when your are out and about. &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	&lt;em&gt;If any question does not apply to you please put "No answer"&lt;/em&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	&lt;em&gt;&lt;/em&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	Transport:&lt;/p&gt;</text>
+      <subQuestion varName="86311X4X353">
+        <text>Short car rides</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X352">
+        <text>Long car rides</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X355">
+        <text>Being Carried</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X354">
+        <text>Being Pushed</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X356">
+        <text>Crawling/Walking</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X3510">
+        <text>Bicycle</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X357">
+        <text>Buses</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X358">
+        <text>Trains</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X359">
+        <text>Planes</text>
+      </subQuestion>
+      <response varName="86311X4X35">
+        <fixed>
+          <category>
+            <label>No answer</label>
+            <value>0</value>
+          </category>
+          <category>
+            <label>Never</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Only once or twice</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Ocassionaly</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Sometimes</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Often</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>Very often</label>
+            <value>6</value>
+          </category>
+          <category>
+            <label>My baby finds this hysterical</label>
+            <value>7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Places:</text>
+      <subQuestion varName="86311X4X19601">
+        <text>At the Shops</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X19612">
+        <text>In a café or restaurant</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X19602">
+        <text>School Run</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X19603">
+        <text>Playground</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X19606">
+        <text>Friends House</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X19613">
+        <text>Relatives House</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X19607">
+        <text>Nursery</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X19608">
+        <text>Doctors/Health Centre</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X19604">
+        <text>In the city</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X19605">
+        <text>In the countryside</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X19609">
+        <text>Parks/Nature</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X19610">
+        <text>Beach/etc.</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X19611">
+        <text>Museums, etc</text>
+      </subQuestion>
+      <response varName="86311X4X196">
+        <fixed>
+          <category>
+            <label>No answer</label>
+            <value>00</value>
+          </category>
+          <category>
+            <label>Never</label>
+            <value>01</value>
+          </category>
+          <category>
+            <label>Only once or twice</label>
+            <value>02</value>
+          </category>
+          <category>
+            <label>Occasionally</label>
+            <value>03</value>
+          </category>
+          <category>
+            <label>Sometimes</label>
+            <value>04</value>
+          </category>
+          <category>
+            <label>Often</label>
+            <value>05</value>
+          </category>
+          <category>
+            <label>Very Often</label>
+            <value>06</value>
+          </category>
+          <category>
+            <label>My baby finds this hysterical</label>
+            <value>07</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Did we forget anything or anywhere?</text>
+      <response varName="86311X4X47">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Where are your baby's favorite places to visit?</text>
+      <subQuestion varName="86311X4X208SQ001">
+        <text>1st</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X208SQ002">
+        <text>2nd</text>
+      </subQuestion>
+      <subQuestion varName="86311X4X208SQ003">
+        <text>3rd</text>
+      </subQuestion>
+      <response varName="86311X4X208">
+        <free>
+          <format>text</format>
+          <length>10</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p class="p1"&gt;&#13;
+	Do you remember a particularly funny trip? If so, what made the baby laugh?&lt;/p&gt;</text>
+      <response varName="86311X4X355">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="13">
+    <sectionInfo>
+      <position>title</position>
+      <text>Toys, Fun and Games</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>What toys and games does your baby find funny?</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>&lt;p&gt;Please go through the following list of toys and  indicate the how much each one makes your baby laugh. &lt;/p&gt;&#13;
+&lt;p&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	&lt;em&gt;If any question does not apply to you please put "No answer"&lt;/em&gt;&lt;/p&gt;&#13;
+&lt;p style="text-align: left;"&gt;&#13;
+	 &lt;/p&gt;&#13;
+&lt;p style="text-align: left;"&gt;&#13;
+	Toys:&lt;/p&gt;</text>
+      <subQuestion varName="86311X13X20901">
+        <text>Teddies and Soft Toys</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X20913">
+        <text>Puppets</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X20902">
+        <text>Toy Animals</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X20903">
+        <text>Toy Vehicles</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X20904">
+        <text>Toy People</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X20905">
+        <text>Teething Toys</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X20906">
+        <text>Building Blocks</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X20907">
+        <text>Balls (Small)</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X20908">
+        <text>Balls (Large)</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X20909">
+        <text>Noisy Toys (Rattles, etc.)</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X20910">
+        <text>Musical Toys (Bells etc.)</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X20911">
+        <text>Talking Toys</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X20912">
+        <text>Toys with Flashing Lights</text>
+      </subQuestion>
+      <response varName="86311X13X209">
+        <fixed>
+          <category>
+            <label>No answer</label>
+            <value>00</value>
+          </category>
+          <category>
+            <label>Never</label>
+            <value>01</value>
+          </category>
+          <category>
+            <label>Only once or twice</label>
+            <value>02</value>
+          </category>
+          <category>
+            <label>Occasionally</label>
+            <value>03</value>
+          </category>
+          <category>
+            <label>Sometimes</label>
+            <value>04</value>
+          </category>
+          <category>
+            <label>Often</label>
+            <value>05</value>
+          </category>
+          <category>
+            <label>Very Often</label>
+            <value>06</value>
+          </category>
+          <category>
+            <label>My baby finds this toy hysterical</label>
+            <value>07</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Did we forget any toys that make your baby laugh?</text>
+      <response varName="86311X13X222">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>What toys does your baby find the funniest?</text>
+      <subQuestion varName="86311X13X22301">
+        <text>Funniest Toy</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X22302">
+        <text>2nd Funniest Toy</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X22303">
+        <text>3rd Funniest Toy</text>
+      </subQuestion>
+      <response varName="86311X13X223">
+        <free>
+          <format>text</format>
+          <length>10</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Games Baby Plays:</text>
+      <subQuestion varName="86311X13X22701">
+        <text>Pouring Water</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X22702">
+        <text>Putting Things into Boxes</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X22703">
+        <text>Painting/Drawing</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X22704">
+        <text>Banging things</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X22705">
+        <text>Building things</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X22706">
+        <text>Knocking thing over</text>
+      </subQuestion>
+      <response varName="86311X13X227">
+        <fixed>
+          <category>
+            <label>No answer</label>
+            <value>00</value>
+          </category>
+          <category>
+            <label>Never</label>
+            <value>01</value>
+          </category>
+          <category>
+            <label>Only once or twice</label>
+            <value>02</value>
+          </category>
+          <category>
+            <label>Occasionally</label>
+            <value>03</value>
+          </category>
+          <category>
+            <label>Sometimes</label>
+            <value>04</value>
+          </category>
+          <category>
+            <label>Often</label>
+            <value>05</value>
+          </category>
+          <category>
+            <label>Very Often</label>
+            <value>06</value>
+          </category>
+          <category>
+            <label>My baby finds this game hysterical</label>
+            <value>07</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Games You Play With Your Baby:</text>
+      <subQuestion varName="86311X13X23001">
+        <text>Peekaboo (Cover your Face)</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X23002">
+        <text>Peekaboo (Cover Baby's Face)</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X23003">
+        <text>Counting Games</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X23004">
+        <text>Chasing Games</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X23006">
+        <text>Funny Actions (Wobbling head, etc.)</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X23007">
+        <text>Funny Faces</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X23008">
+        <text>Funny Noises</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X23009">
+        <text>Pretend fear</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X23010">
+        <text>Pretend Anger</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X23011">
+        <text>Blowing Bubbles</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X23012">
+        <text>Imitating Baby</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X23013">
+        <text>Hiding Objects</text>
+      </subQuestion>
+      <response varName="86311X13X230">
+        <fixed>
+          <category>
+            <label>Never</label>
+            <value>01</value>
+          </category>
+          <category>
+            <label>Only once or twice</label>
+            <value>02</value>
+          </category>
+          <category>
+            <label>Occasionally</label>
+            <value>03</value>
+          </category>
+          <category>
+            <label>Sometimes</label>
+            <value>04</value>
+          </category>
+          <category>
+            <label>Often</label>
+            <value>05</value>
+          </category>
+          <category>
+            <label>Very Often</label>
+            <value>06</value>
+          </category>
+          <category>
+            <label>My baby finds this game hysterical</label>
+            <value>07</value>
+          </category>
+          <category>
+            <label>No answer</label>
+            <value>08</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;&#13;
+	Did we forget any games that make your baby laugh?&lt;/p&gt;&#13;
+&lt;p style="text-align: left;"&gt;&#13;
+	 &lt;/p&gt;</text>
+      <response varName="86311X13X244">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>What games does your baby find the funniest?</text>
+      <subQuestion varName="86311X13X24501">
+        <text>Funniest Game</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X24502">
+        <text>2nd Funniest Game</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X24503">
+        <text>3rd Funniest Game</text>
+      </subQuestion>
+      <response varName="86311X13X245">
+        <free>
+          <format>text</format>
+          <length>10</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>What songs or nursery rhymes does your baby find the funniest?</text>
+      <subQuestion varName="86311X13X27801">
+        <text>Funniest Song/Nursery Rhyme</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X27802">
+        <text>2nd Funniest Song/Nursery Rhyme</text>
+      </subQuestion>
+      <subQuestion varName="86311X13X27803">
+        <text>3rd Funniest Song/Nursery Rhyme</text>
+      </subQuestion>
+      <response varName="86311X13X278">
+        <free>
+          <format>text</format>
+          <length>10</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Please tell us about a particularly funny game you and your baby played recently (optional)</text>
+      <response varName="86311X13X361">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="5">
+    <sectionInfo>
+      <position>title</position>
+      <text>Sensations</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>Touch, feel, smell, sight and taste. What specific sensations really make your baby laugh?</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Please indicate the level that each sensation makes your baby laugh.</text>
+      <subQuestion varName="86311X5X481">
+        <text>Tickling (Body)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X482">
+        <text>Tickling (Hands, Arms)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X483">
+        <text>Tickling (Toes)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X484">
+        <text>Blowing Rasperries</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X485">
+        <text>Stroking Baby</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X486">
+        <text>Blowing Gently on Baby</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X487">
+        <text>Throwing Baby in the Air</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X488">
+        <text>Holding Upside Down</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X489">
+        <text>Rough and Tumble</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4810">
+        <text>Music (Classical)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4811">
+        <text>Music (For Babies, Nursery Rhymes etc.)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4812">
+        <text>Music (For Parents, Your Choice of Music)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4813">
+        <text>People Laughing (Parents)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4814">
+        <text>People Laughing (Other Family Members)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4815">
+        <text>People Laughing (Strangers)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4816">
+        <text>People Laughing (Other Babies)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4817">
+        <text>Mirrors</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4818">
+        <text>Certain Smells</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4819">
+        <text>Certain Tastes</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4820">
+        <text>Noises (Faint)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4821">
+        <text>Noises (Loud)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4822">
+        <text>Noises (Unusual)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4823">
+        <text>Voices (Silly)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4824">
+        <text>Voices (Singing to Baby)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4825">
+        <text>Voices (Angry)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4826">
+        <text>Voices (Lip Popping)</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4827">
+        <text>Baby Falling Over</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4828">
+        <text>Baby Hurting Itself</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4829">
+        <text>Other People Falling Over</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X4830">
+        <text>Other People Hurting Themselves</text>
+      </subQuestion>
+      <response varName="86311X5X48">
+        <fixed>
+          <category>
+            <label>No answer</label>
+            <value>0</value>
+          </category>
+          <category>
+            <label>Never</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Only once or twice</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Occasionally</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Sometimes</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Often</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>Very often</label>
+            <value>6</value>
+          </category>
+          <category>
+            <label>My baby finds this sensation hysterical</label>
+            <value>7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>If your baby does find certain smells or tastes funny, what are they?</text>
+      <response varName="86311X5X60">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Did we forget any sensations? If so, what?</text>
+      <response varName="86311X5X61">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>What physical sensation does your baby find the funniest?</text>
+      <subQuestion varName="86311X5X27001">
+        <text>Funniest Physical Sensation</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X27002">
+        <text>2nd Funniest Physical Sensation</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X27003">
+        <text>3rd Funniest Physical Sensation</text>
+      </subQuestion>
+      <response varName="86311X5X270">
+        <free>
+          <format>text</format>
+          <length>10</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>What noises does your baby find the funniest?</text>
+      <subQuestion varName="86311X5X27401">
+        <text>Funniest Noise</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X27402">
+        <text>2nd Funniest Noise</text>
+      </subQuestion>
+      <subQuestion varName="86311X5X27403">
+        <text>3rd Funniest Noise</text>
+      </subQuestion>
+      <response varName="86311X5X274">
+        <free>
+          <format>text</format>
+          <length>10</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>(Optional) Tell us about a sensation that your baby finds particularly funny </text>
+      <response varName="86311X5X362">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="6">
+    <sectionInfo>
+      <position>title</position>
+      <text>Nearly done!</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>Is there anything that we forgot that really makes your baby laugh? Please tell us now</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>What did we forget? If any group or subject that makes your baby laugh has not been covered in this questionnaire, this is your last chance to let us know what really makes your baby laugh!</text>
+      <response varName="86311X6X21">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Do you have any questions for us?</text>
+      <response varName="86311X6X363">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Are you willing to answer some extra questions about your baby's temperament?&#13;
+&lt;p&gt;&#13;
+	This final section is completely optional. It includes 37 extra multiple choice questions and takes about 10 mins to complete.  &lt;/p&gt;&#13;
+&lt;p style="text-align: left;"&gt;&#13;
+	&lt;em&gt;To come back and answer these questions later, press the button at the bottom left.&lt;/em&gt;&lt;/p&gt;</text>
+      <response varName="86311X6X72">
+        <fixed>
+          <category>
+            <label>No thanks, I'm done.</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Yes, my baby is less than 1 year old</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Yes, my baby is 1 year old or older</label>
+            <value>A3</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="11">
+    <sectionInfo>
+      <position>title</position>
+      <text>Less Than 1 Year Old</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>INSTRUCTIONS:&#13;
+&#13;
+	Please read carefully before starting:&#13;
+&#13;
+	 &#13;
+&#13;
+	As you read each description of the baby’s behavior below, please indicate how often the baby did this during the LAST WEEK (the past seven days) by circling one of the numbers in the left column. &#13;
+&#13;
+	 &#13;
+&#13;
+	The “Does Not Apply” (X) column is used when you did not see the baby in the situation described during the last week.  For example, if the situation mentions the baby having to wait for food or liquids and there was no time during the last week when the baby had to wait, circle the (X) column. “Does Not Apply” is different from “Never” (1).  “Never” is used when you saw the baby in the situation but the baby never engaged in the behavior listed during the last week.  For example, if the baby did have to wait for food or liquids at least once but never cried loudly while waiting, circle the (1) column.&#13;
+&#13;
+	 &#13;
+&#13;
+	Please be sure to circle a number for every item.&#13;
+&#13;
+	 </text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Please indicate how often the baby did this during the LAST WEEK </text>
+      <subQuestion varName="86311X11X751">
+        <text>When being dressed or undressed during the last week, how often did the baby squirm and/or try to roll away?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X752">
+        <text>When tossed around playfully how often did the baby laugh?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X753">
+        <text>When tired, how often did your baby show distress?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X754">
+        <text>When introduced to an unfamiliar adult, how often did the baby cling to a parent?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X755">
+        <text>How often during the last week did the baby enjoy being read to?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X756">
+        <text>How often during the last week did the baby play with one toy or object for 5-10 minutes?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X757">
+        <text>How often during the week did your baby move quickly toward new objects?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X758">
+        <text>When put into the bath water, how often did the baby laugh?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X759">
+        <text>When it was time for bed or a nap and your baby did not want to go, how often did s/he whimper or sob?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7510">
+        <text>After sleeping, how often did the baby cry if someone doesn’t come within a few minutes?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7511">
+        <text>In the last week, while being fed in your lap, how often did the baby seem eager to get away as soon as the feeding was over?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7512">
+        <text>When singing or talking to your baby, how often did s/he soothe immediately?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7513">
+        <text>When placed on his/her back, how often did the baby squirm and/or turn body?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7514">
+        <text>During a peekaboo game, how often did the baby laugh?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7515">
+        <text>How often does the infant look up from playing when the telephone rings?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7516">
+        <text>How often did the baby seem angry (crying and fussing) when you left her/him in the crib?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7517">
+        <text>How often during the last week did the baby startle at a sudden change in body position (e.g., when moved suddenly)?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7518">
+        <text>How often during the last week did the baby enjoy hearing the sound of words, as in nursery rhymes?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7519">
+        <text>How often during the last week did the baby look at pictures in books and/or 	magazines for 5 minutes or longer at a time?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7520">
+        <text>When visiting a new place, how often did your baby get excited about exploring new surroundings?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7521">
+        <text>How often during the last week did the baby smile or laugh when given a toy?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7522">
+        <text>At the end of an exciting day, how often did your baby become tearful?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7523">
+        <text>How often during the last week did the baby protest being placed in a confining place (infant seat, play pen, car seat, etc.)?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7524">
+        <text>When being held, in the last week, did your baby seem to enjoy him/herself?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7525">
+        <text>When showing the baby something to look at, how often did s/he soothe 	immediately?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7526">
+        <text>When hair was washed, how often did the baby vocalize?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7527">
+        <text>How often did your baby notice the sound of an airplane passing overhead?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7528">
+        <text>When introduced to an unfamiliar adult, how often did the baby refuse to go to the unfamiliar person?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7529">
+        <text>When you were busy with another activity, and your baby was not able to get your attention, how often did s/he cry?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7530">
+        <text>How often during the last week did the baby enjoy gentle rhythmic activities, such as rocking or swaying?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7531">
+        <text>How often during the last week did the baby stare at a mobile, crib bumper or picture for 5 minutes or longer?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7532">
+        <text>When the baby wanted something, how often did s/he become upset when s/he could not get what s/he wanted?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7533">
+        <text>When in the presence of several unfamiliar adults, how often did the baby cling to a parent?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7534">
+        <text>When rocked or hugged, in the last week, did your baby seem to enjoy him/herself?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7535">
+        <text>When patting or gently rubbing some part of the baby’s body, how often did s/he soothe immediately?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7536">
+        <text>How often did your baby make talking sounds when riding in a car?</text>
+      </subQuestion>
+      <subQuestion varName="86311X11X7537">
+        <text>When placed in an infant seat or car seat, how often did the baby squirm and turn body?</text>
+      </subQuestion>
+      <response varName="86311X11X75">
+        <fixed>
+          <category>
+            <label>1: Never</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>2: Very Rarely</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>3: Less Than Half the Time</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>4: About Half the Time</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>5:More than Half the Time</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>6: Almost always</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>7: Always</label>
+            <value>A7</value>
+          </category>
+          <category>
+            <label>NA: Does Not Apply</label>
+            <value>A8</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="12">
+    <sectionInfo>
+      <position>title</position>
+      <text>1 Year or Older</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>INSTRUCTIONS:&#13;
+&#13;
+	Please read carefully before starting:&#13;
+&#13;
+	 &#13;
+&#13;
+	As you read each description of the baby’s behavior below, please indicate how often the baby did this during the LAST WEEK (the past seven days) by circling one of the numbers in the left column. &#13;
+&#13;
+	 &#13;
+&#13;
+	The “Does Not Apply” (X) column is used when you did not see the baby in the situation described during the last week.  For example, if the situation mentions the baby having to wait for food or liquids and there was no time during the last week when the baby had to wait, circle the (X) column. “Does Not Apply” is different from “Never” (1).  “Never” is used when you saw the baby in the situation but the baby never engaged in the behavior listed during the last week.  For example, if the baby did have to wait for food or liquids at least once but never cried loudly while waiting, circle the (1) column.&#13;
+&#13;
+	 &#13;
+&#13;
+	Please be sure to circle a number for every item.&#13;
+&#13;
+	 </text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Please indicate how often the baby did this during the LAST WEEK.</text>
+      <subQuestion varName="86311X12X771">
+        <text>When approached by an unfamiliar person in a public place (for example, the grocery store), how often did your child  cling to a parent?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X772">
+        <text>While having trouble completing a task (e.g., building, drawing, dressing), how often did your child get easily irritated?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X773">
+        <text>When a familiar child came to your home, how often did your child seek out the company of the child?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X774">
+        <text>When offered a choice of activities, how often did your child decide what to do very quickly and go after it?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X775">
+        <text>During daily or evening quiet time with you and your child, how often did your child enjoy just being quietly sung to?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X776">
+        <text>While playing outdoors, how often did your child choose to take chances for the fun and excitement of it?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X777">
+        <text>When engaged in play with his/her favorite toy, how often did your child play for more than 10 minutes?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X778">
+        <text>When engaged in play with his/her favorite toy, how often did your child continue to play while at the same time responding to your remarks or  questions?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X779">
+        <text>When told that loved adults would visit, how often did your child get very excited</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7710">
+        <text>During quiet activities, such as reading a story, how often did your child fiddle with his/her hair, clothing, etc.?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7711">
+        <text>While playing indoors, how often did your child like rough and rowdy games?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7712">
+        <text>When being gently rocked or hugged, how often did your child seem eager to get away?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7713">
+        <text>When encountering a new activity, how often did your child get involved immediatley?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7714">
+        <text>When engaged in an activity requiring attention, such as building with blocks, how often did your child tire of the activity relatively quickly?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7715">
+        <text>During everyday activities, how often did your child pay attention to you right away when you called to him/her?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7716">
+        <text>During everyday activities, how often did your child seem to be irritated by tags in his/her clothes?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7717">
+        <text>During everyday activities, how often did your child become bothered by sounds while in noisy environments?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7718">
+        <text>During everyday activities, how often did your child seem full of energy, even in the evening?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7719">
+        <text>While in a public place, how often did your child seem afraid of large, noisy vehicles?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7720">
+        <text>When playing outdoors with other children, how often did your child seem to be one of the most active children?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7721">
+        <text>When told “no”, how often did your child stop the forbidden activity?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7722">
+        <text>When told “no”, how often did your child become sadly tearful?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7723">
+        <text>Following an exciting activity or event, how often did your child seem to feel down or blue?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7724">
+        <text>While playing indoors, how often did your child run through the house?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7725">
+        <text>Before an exciting event (such as receiving a new toy), how often did your child get very excited about getting it?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7726">
+        <text>When s/he asked for something and you said “no”, how often did your child have a temper tantrum?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7727">
+        <text>When asked to wait for a desirable item (such as ice cream), how often did your child wait patiently?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7728">
+        <text>When being gently rocked, how often did your child smile?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7729">
+        <text>While being held on your lap, how often did your child mold to your body?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7730">
+        <text>When a familiar adult, such as a relative or friend, visited your home, how often did your child want to interact with the adult?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7731">
+        <text>When asked to do so, how often was your child able to be careful with something breakable?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7732">
+        <text>When visiting a new place, how often did your child not want to enter?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7733">
+        <text>When s/he was upset, how often did your child cry for more than 3 minutes, even when being comforted?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7734">
+        <text>When s/he was upset, how often did your child become easily soothed?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7735">
+        <text>When you were busy, how often did your child find another activity to do when asked?</text>
+      </subQuestion>
+      <subQuestion varName="86311X12X7736">
+        <text>When around large gatherings of familiar adults or children, how often did your child enjoy playing with a number of different people?</text>
+      </subQuestion>
+      <response varName="86311X12X77">
+        <fixed>
+          <category>
+            <label>1: Never</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>2: Very Rarely</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>3: Less Than Half the Time</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>4: About Half the Time</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>5:More than Half the Time</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>6: Almost always</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>7: Always</label>
+            <value>A7</value>
+          </category>
+          <category>
+            <label>NA: Does Not Apply</label>
+            <value>A8</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+</questionnaire>
