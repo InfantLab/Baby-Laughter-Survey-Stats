@@ -1,8 +1,11 @@
 #baby laughter data wrangling
 library(Hmisc)
 library(zoo)
+library(plyr)
+library(car) 
 
-setwd("~/Dropbox/Baby Laughter/survey analysis")
+
+setwd("~/Dropbox/Baby Laughter/Laughter Survey Stats")
 source("babylaughter_Ordered_syntax_file.R")
 
 #convert submit date string into a system recognised date format
@@ -11,15 +14,40 @@ data$submitdatetime<- as.POSIXct(data$submitdate,format="%d-%m-%Y %H:%M:%S")
 data$numericsubmitdatetime<-as.numeric(data$submitdatetime)
 #fill the last value in 
 n<-length(data$numericsubmitdatetime)
-data$numericsubmitdatetime[n]<-data$numericsubmitdatetime[1983]
+data$numericsubmitdatetime[n]<-data$numericsubmitdatetime[2002]
 #fill the blanks with the next value that comes after
 data$numericsubmitdatetime<-na.locf(data$numericsubmitdatetime,na.rm=FALSE,fromLast=TRUE)
 data$entrydate<- as.POSIXlt(data$numericsubmitdatetime,origin="1970-01-01")
 data$daysold<-as.numeric(difftime(data$entrydate,data$dob),units="days")
 
 
+################
+# Analyses
+
+
+#do twins laugh more
+twincompare = as.data.frame(matrix(ncol=1,nrow=2004)) 
+twincompare = cbind(twincompare,data$daysold)
+twincompare = cbind(twincompare,data$sex)
+twincompare = cbind(twincompare,data$q_18)
+
+colnames( twincompare ) <- c( "delete", "DaysOld","Gender", "NumLaughs")
+twincompare$delete<-NULL
+
+twincompare$NumLaughs<-recode(twincompare$NumLaughs,"'0-10'=5;'10-20'=15;'20-50'=35;'50-100'=75;'100-150'=125;'150-200'=175;'200-300'=250;'300-400'=350;'400-500'=450;'500+'=600") 
+twincompare$NumLaughs<-levels(twincompare$NumLaughs)[twincompare$NumLaughs]
+twincompare<-twincompare[complete.cases(twincompare[,1:3]),]
+twincompare$NumLaughs<-as.numeric(twincompare$NumLaughs)
+ddply(twincompare,~Gender,summarise,mean=mean(NumLaughs),sd=sd(NumLaughs))
+
+subset(twincompare,Gender=='More...')
+subset(twincompare,Gender=='More...')
+
+#what countries?
+unique(data$country[!is.na(data$submitdate)])
+
 #funniest toy data
-funniesttoys = as.data.frame(matrix(ncol=1,nrow=1988)) 
+funniesttoys = as.data.frame(matrix(ncol=1,nrow=2004)) 
 funniesttoys = cbind(funniesttoys,data$daysold)
 funniesttoys = cbind(funniesttoys,data$country)
 funniesttoys = cbind(funniesttoys,data$sex)
@@ -75,6 +103,9 @@ plotquestion <- function (data, colname) {
   plot(data[colname],xlab="Rating",main=getColName(data,colname), col="yellowgreen")
 }
 
+plotquestion(data,"sex")
+
+
 #howmanylaughs
 plotanswers(data$q_18, "How many laughs per day?", "pink")
 
@@ -85,6 +116,11 @@ data$firstLaughs_SQ001_SQ001[357]<-NA
 summary(data$firstLaughs_SQ001_SQ001)
 
 getColName(data,"firstLaughs_SQ003_SQ001")
+FSmile<-ecdf(data$firstLaughs_SQ001_SQ001)
+plot(FSmile)
+FLaugh<-ecdf(data$firstLaughs_SQ004_SQ001)
+plot(FLaugh)
+
 hist(data$firstLaughs_SQ001_SQ001,xlab="Months",main="Age of first smile", col="turquoise",cex.axis=2, cex.lab=2,ylab=NA,cex.main=2)
 hist(data$firstLaughs_SQ002_SQ001,xlab="Months",main="Age of first social smile", col="seagreen",cex.axis=2, cex.lab=2,ylab=NA,cex.main=2)
 hist(data$firstLaughs_SQ003_SQ001,xlab="Months",main="Age of first deliberate smile", col="orchid",cex.axis=2, cex.lab=2,ylab=NA,cex.main=2)
